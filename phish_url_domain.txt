@@ -27,3 +27,4 @@ u44804254.ct.sendgrid.net
 nova-tendencia.online
 7cnav.yalchgon.com
 email.rocksolidxchange.info
+pub-ebe91e2e7c4b4b8a9884a0bf469f7621.r2.dev
