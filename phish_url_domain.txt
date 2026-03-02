@@ -192,3 +192,4 @@ community.ranai.my.id
 medic-plan.gr
 crypto.tidoosta.help
 email.y.kajabimail.net
+chef.douvepo.world
