@@ -193,3 +193,4 @@ medic-plan.gr
 crypto.tidoosta.help
 email.y.kajabimail.net
 chef.douvepo.world
+technoventure.cfd
